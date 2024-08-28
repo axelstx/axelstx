@@ -1,4 +1,4 @@
-[![Header](https://github.com/axelstx/axelstx/blob/main/assets/header.png)](https://github.com/axelstx)
+[![Header](https://github.com/axelstx/axelstx/blob/master/assets/header.png)](https://github.com/axelstx)
 
 ### Languages and Tools
 [![PHP](https://img.shields.io/badge/-PHP-blue?style=for-the-badge&logo=PHP)](https://www.php.net/)
